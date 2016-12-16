@@ -1,0 +1,40 @@
+PODS:
+  - CocoaLumberjack (2.0.1):
+    - CocoaLumberjack/Default (= 2.0.1)
+    - CocoaLumberjack/Extensions (= 2.0.1)
+  - CocoaLumberjack/Core (2.0.1)
+  - CocoaLumberjack/Default (2.0.1):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (2.0.1):
+    - CocoaLumberjack/Default
+  - HTCommonUtility (0.0.1):
+    - CocoaLumberjack (= 2.0.1)
+  - HTSegmentsView (0.0.1)
+
+DEPENDENCIES:
+  - HTCommonUtility (from `https://g.hz.netease.com/HeartTouchOpen/HTCommonUtils.git`)
+  - HTSegmentsView (from `https://g.hz.netease.com/HTIOSUI/HTSegmentsView.git`, branch `master`)
+
+EXTERNAL SOURCES:
+  HTCommonUtility:
+    :git: https://g.hz.netease.com/HeartTouchOpen/HTCommonUtils.git
+  HTSegmentsView:
+    :branch: master
+    :git: https://g.hz.netease.com/HTIOSUI/HTSegmentsView.git
+
+CHECKOUT OPTIONS:
+  HTCommonUtility:
+    :commit: 76ec908819aaa9e8228afcda87ed810bd110227b
+    :git: https://g.hz.netease.com/HeartTouchOpen/HTCommonUtils.git
+  HTSegmentsView:
+    :commit: 26c8468ac742eebe7d94960daa14e654d0322bd9
+    :git: https://g.hz.netease.com/HTIOSUI/HTSegmentsView.git
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 019d1361244274a6138c788c6cb80baabc13fb8f
+  HTCommonUtility: cc018fa665ae03e0fb5b7734d95b6452b8e16c0c
+  HTSegmentsView: 5a80af8bb40db766642921e71ce06ab03a328e2c
+
+PODFILE CHECKSUM: db297e6faf07eb02f8af292bbfb95a02aca3b0c7
+
+COCOAPODS: 1.1.1

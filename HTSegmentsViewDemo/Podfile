@@ -1,0 +1,7 @@
+platform :ios, '7.0'
+inhibit_all_warnings!
+
+target :HTSegmentsViewDemo do
+    pod 'HTSegmentsView', :git => 'https://g.hz.netease.com/HTIOSUI/HTSegmentsView.git', :branch => 'master'
+    pod 'HTCommonUtility', :git => 'https://g.hz.netease.com/HeartTouchOpen/HTCommonUtils.git'
+end

@@ -1,0 +1,19 @@
+{
+  "name": "HTSegmentsView",
+  "version": "0.0.1",
+  "summary": "A short description of HTSegmentView.",
+  "description": "A longer description of HTSegmentsView in Markdown format.",
+  "homepage": "https://g.hz.netease.com/HTIOSUI/HTSegmentsView",
+  "license": "MIT",
+  "authors": {
+    "张建伟": "hzzhangjw@corp.netease.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://g.hz.netease.com/HTIOSUI/HTSegmentsView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "HTSegmentsView/*.{h,m}"
+}
