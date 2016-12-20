@@ -16,14 +16,14 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "HTSegmentsView"
-  s.version      = "0.0.1"
-  s.summary      = "A short description of HTSegmentsView."
+  s.version      = "0.0.2"
+  s.summary      = "网易标准化控件库之 HTSegmentsView."
 
   s.description  = <<-DESC
                    A longer description of HTSegmentsView in Markdown format.
                    DESC
 
-  s.homepage     = "https://github.com/NEYouFan/HTSegmentsView-iOS"
+  s.homepage     = "https://github.com/NEYouFan/ht-segmentsview-ios"
 
 
   s.license      = "MIT"
@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "7.0"
 
 
-  s.source       = { :git => "https://github.com/NEYouFan/HTSegmentsView-iOS.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/NEYouFan/ht-segmentsview-ios.git", :tag => s.version.to_s }
 
   s.source_files  = "HTSegmentsView/*.{h,m}"
 
