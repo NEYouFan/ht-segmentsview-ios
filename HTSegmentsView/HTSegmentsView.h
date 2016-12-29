@@ -10,7 +10,7 @@
 #import "HTSegmentsCellView.h"
 #import "HTSegmentsViewAnimator.h"
 
-#warning 分头文件
+//#warning 分头文件
 @class HTSegmentsView;
 
 /*!
