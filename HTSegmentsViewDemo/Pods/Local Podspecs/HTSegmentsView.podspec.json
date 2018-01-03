@@ -5,9 +5,6 @@
   "description": "A longer description of HTSegmentsView in Markdown format.",
   "homepage": "https://g.hz.netease.com/HTIOSUI/HTSegmentsView",
   "license": "MIT",
-  "authors": {
-    "张建伟": "hzzhangjw@corp.netease.com"
-  },
   "platforms": {
     "ios": "7.0"
   },
